@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WebReporter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TestiranjeIspit/Biblioteka/WebReporter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
